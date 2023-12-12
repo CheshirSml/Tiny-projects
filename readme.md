@@ -4,3 +4,4 @@ Projects completed by me in the process of training, as well as personal project
 
 [Проект_1: Анализ резюме из HeadHunter](https://github.com/CheshirSml/Portfolio/tree/master/Project_1)  
 [Проект_2: Анализ вакансий из HeadHunter(SQL)](https://github.com/CheshirSml/Portfolio/tree/master/Project_2)
+[Задача прогнозирования биологического ответа]()
